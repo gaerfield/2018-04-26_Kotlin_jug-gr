@@ -7,7 +7,7 @@ This repository contains all resources for the presentation of [Kotlin](https://
 * **reveal**: the slides itself
   * presentation were in german, so are the slides
   * content is written in Markdown, use [reveal-md](https://github.com/webpro/reveal-md) to view them: `reveal-md kotlin.md`
-  * teaser-gifs are dynamically loaded from giphy, find referenced movies/tv-series within the sources as comments
+  * teaser-gifs are dynamically loaded from giphy, find referenced movies/tv-series within the sources as comments (use strg+u when browsing the slides)
 * **gh-pages**: statically generated reveal-slides (view them [here]( http://gaerfield.github.io/2018-04-26_Kotlin_jug-gr/))
   * gh-pages/kotlin: the kotlin-presentation
   * gh-pages/raffle: the raffle-slides
